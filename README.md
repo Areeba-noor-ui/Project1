@@ -1,2 +1,4 @@
 # Project1
-This is my first project of css and html.
+This project is static clone of the Amazon home ,built using HTML & CSS.
+It replicates the layout and design of Amazon's main page for learning and practice purposes.
+
