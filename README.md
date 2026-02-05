@@ -1,4 +1,4 @@
-# Project1
+# Amazon clone Project1
 # Amazon Clone (HTML & CSS)
 This project is a static Amazon homepage clone created using **HTML and CSS only**.  
 The purpose of this project is to practice frontend layout, styling, and responsive design concepts.
